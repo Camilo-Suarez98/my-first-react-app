@@ -26,6 +26,15 @@ Users should be able to:
 
 ### Screenshot
 
+#### Mobile View:
+
+<img width="376" alt="image" src="https://github.com/Camilo-Suarez98/my-first-react-app/assets/68169750/8d68015b-6beb-4abd-a741-265896acf3a3">
+
+#### Desktop View:
+
+<img width="1245" alt="image" src="https://github.com/Camilo-Suarez98/my-first-react-app/assets/68169750/c3aed129-3717-4111-af63-1c3db77e66ca">
+
+
 ## My process
 
 ### Built with
